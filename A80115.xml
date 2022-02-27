@@ -1,0 +1,920 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of speciall passages and certaine informations of all the most memorable accidents, and remarkable truths, from London, Westminster, and divers other parts of this Kingdome, from Munday Octob. 17. till Tuesday Novemb. 1. 1642. With a summary collection of all the declarations, orders, messages, remonstrances, petitions, letters, and other passages that have been published by order of both Houses of Parliament. And what other relations of newes have been any other ways published within that time from all other parts. Collected for the satisfaciton of all those that desire to be truely informed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80115</idno>
+            <idno type="STC">Wing C5194</idno>
+            <idno type="STC">Thomason E242_2</idno>
+            <idno type="STC">ESTC R2829</idno>
+            <idno type="EEBO-CITATION">99872195</idno>
+            <idno type="PROQUEST">99872195</idno>
+            <idno type="VID">130860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E242[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Collection of speciall passages and certaine informations of all the most memorable accidents, and remarkable truths, from London, Westminster, and divers other parts of this Kingdome, from Munday Octob. 17. till Tuesday Novemb. 1. 1642. With a summary collection of all the declarations, orders, messages, remonstrances, petitions, letters, and other passages that have been published by order of both Houses of Parliament. And what other relations of newes have been any other ways published within that time from all other parts. Collected for the satisfaciton of all those that desire to be truely informed.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Novemb. 2. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:130860:1" rendition="simple:additions"/>
+            <head>A Collection of SPECIALL PASSAGES <hi>AND</hi> Certaine Informations of all the moſt memorable Acci<g ref="char:EOLhyphen"/>dents, and Remarkable Truths, <hi>FROM London, Weſtminſter,</hi> and divers other parts of this Kingdome, from <hi>Munday Octob.</hi> 17. till <hi>Tuſeday Novemb.</hi> 1. 1642.</head>
+            <head type="sub">With a ſummary Collection of all the <hi>Declarations, Orders, Meſſages, Remon<g ref="char:EOLhyphen"/>ſtrances, Petitions, Letters,</hi> and other paſſages that have been publiſhed by Order of both Houſes of Parliament. And what other Relations of Newes have been any other wayes publiſhed within that time from all other Parts. <hi>Collected for the ſatisfaction of all thoſe that deſire to be truely informed.</hi>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="colophon">
+                        <p>
+                           <hi>London,</hi> Printed for <hi>Francis Coles,</hi> Novemb. 2. 1642.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Here was a Declaration publiſhed by Order of both Houſes of Parliament, ſetting forth the preſent condition of this kingdom, That his Majeſty by ad<g ref="char:EOLhyphen"/>vice and aſſiſtance of the evill and wicked counſell about him hath raiſed an Army, which are maintained with the ſpoyls of the Kings ſubjects; giving them leave to exact monies by force, plunder &amp; ſpoyl all ſorts of people. That this evil counſel doth not only hinder his Majeſty from exerciſing the Iuſtice of a King towards his people, but even that honour which is obſerved betwixt enemies; That Sir <hi>Io. Hinderſon</hi> (a Papiſt) one of the Kings party, laboured with one <hi>David Alexander</hi> a Scothman to kill Sir <hi>Iohn Hotham</hi> but hee refuſing, his Maieſty ſent twice for him to Bever<g ref="char:EOLhyphen"/>ly, and when he came, had publike talke with him and gave him a ſumme of money, which he received. That the ſaid Sir <hi>Iohn Hinderſon</hi> alſo conſpired with the ſaid <hi>Alexander</hi> to fire the Lord Generals Magazine, but by great providence was prevented.</p>
+            <p>That ſuch of the Trained Bands as refuſe to ſerve his Maieſty have their Armes taken from them; and that the Cavaliers by their cruell oppreſſions have ſo exhauſted thoſe Parts where his Maieſty hath been, that they now perſwade him to march towards <hi>London,</hi> that ſo they might make the like ſpoyle in all thoſe fruitfull Countryes in the way; and ſatisfie their long expected hopes out of the rich wealth of the City of <hi>London.</hi>
+            </p>
+            <p>To prevent all which miſeries and dangers, the Parliament doe conceive it fitting that good proviſion be made by loane and contribution to maintaine the Lord Generalls Army, and that that Army doe alwayes attend the removes of the Kings Army, to prevent them in their ſpoyles of the Country.</p>
+            <p>That thoſe Countrys through which the Kings Army doth paſſe, doe aſſociate themſelves, and draw all their Forces together for their own defence, according to the direction of their Deputy-Lievtenants and other Officers; And that they have Powder, Munition, and Ordnance, in readineſſe upon all occaſions.</p>
+            <p>
+               <pb facs="tcp:130860:2"/>That all thoſe who in the City of <hi>London</hi> or elſe where ſhall weare any of the Kings Colours ſhall be examined and diſarmed.</p>
+            <p>As alſo in that Declaration the Houſes make ſeverall excellent Queries concerning the grounds of this warre, the reſult whereof in ſhort is, That it is not feare of ſome Innovation or alteration in Religion or Church Government that hath occaſioned this warre; for that the Parliament have fully declared that they intend to take away nothing but the Govern<g ref="char:EOLhyphen"/>ment of Biſhops, which have been ſo evidently miſchievous and dangerous to the Church and State; Nor is it to uphold the authority, Prerogative and honour of the King, as is ſo vainely alleadged by them; But the true cauſe and matter of the quarrell is, That Prieſts and Ieſuites may domineere and govern in the Kings councell as formerly, That the Biſhops may ſuppreſſe powerfull preaching, and introduce the Popiſh Religion under colour of the Proteſtant profeſſion, That the Earle of Briſtoll, Lord <hi>Digby,</hi> Maſter <hi>Iermyn,</hi> and other Traytors may govern the affaires of State, and be diſtributers of Preferments; That Delin<g ref="char:EOLhyphen"/>quents may eſcape the Iuſtice of Parliament, and triumph in the ſpoyles of honeſt men, That through our troubles the Rebels in <hi>Ireland</hi> may prevaile, That We may ceaſe to be a free Na<g ref="char:EOLhyphen"/>tion, and become the obiect of cru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty and oppreſſion at home, and of ſcorne and infamy abroad, &amp;c. With this Declaration, there were certaine Votes publiſhed, reſolved upon the Queſtion by both Houſes of Parliament, <hi>viz.</hi> That ſuch perſons as ſhall not contribute to the charge of the Common-wealth in this time of imminent neceſſity, ſhall bee diſarmed and their perſons ſecured.</p>
+            <p>That the Fines, Rents, and Profits of Arch-Biſhops, Biſhops Deans and Chapters, and ſuch notorious Delinquents, who have taken up Armes againſt the Parliament, or have been active in the Commiſſion of Array, ſhall bee ſequeſtred for the ſervice of the Common-wealth.</p>
+            <p>That the Kings revenue<g ref="char:punc">▪</g> riſing out of Rents, Fines in Courts of Iuſtice, compoſitions for Wards, and all other his Maieſties reve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ues, ſhall be paid into the uſuall places of receipt, but not iſſued forth, or paid out but by order of Parliament.</p>
+            <p>There was alſo a Declaration publiſhed by order of the Houſe, ſubſcribed by Colonell <hi>Sandis</hi> at the Randevouz at <hi>Worceſter, Octob.</hi> 11. in vindication of himſelfe from thoſe calum<g ref="char:EOLhyphen"/>nious a perſions caſt upon him, by the letters of the Lord <hi>Faukland</hi> and Secretary <hi>Nicholas,</hi> who write that he was dead, and a little before his death ſhould ſay, <hi>That death did not ſo much trouble him, as that he had endeavoured to defend ſo bad a cauſe, which he was drawne unto as well by his own ambition as by perſwaſions of others, and that hee wiſhed that all the Actions of the Parliaments Forces might hereafter prove unſuccesfull, deſiring God and the King w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld ſo g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve him for his great ſin of Rebellion;</hi> To which words, the Colonell doth ſeriouſly pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, that the apprehenſion of death did never ſo nearly touch him, but that if God ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce reſtore his ſtrength (which in good meaſure he hath already done) he will with as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch alacrity and courage endevour to maintaine the cauſe hee hath undertaken with his deareſt blood as ever he did, nor was hee drawn into it by ambition, or other perſwaſions, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch as w re backed by the beſt of Arguments, namely, Religion, the houour and ſecu<g ref="char:EOLhyphen"/>rity of the King, the priviledge of Parliament, and liberty of the ſubiect, And that in his grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt danger of death, his conſcience did clear him from the guilt of Rebellion or tumul<g ref="char:EOLhyphen"/>tuous thoughts, And that the chiefeſt motive which carried him on to this Action was loyalty to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soveraign, and love to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion and Country, &amp;c.</p>
+            <p>By Letters from <hi>Cornwall,</hi> it was informed that Sir <hi>Ralph Hopton</hi> with his Accomplices in <hi>Pendennis</hi> Caſtle, hath made great ſpoyle in pillaging and plundering the Countrey, that Sir <hi>Bevill Grevill,</hi> Sir <hi>Nicholas Slany,</hi> Sir <hi>Rich. Vivian,</hi> and Maſter <hi>Arundell,</hi> all Array men, are th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chiefe Confederates, and amongſt them have raiſed about 2000 men, which pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Country into great feare, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have poſſeſſed themſelves of <hi>Lanceston</hi> and <hi>Salt Aſh,</hi> and are now bending their Forces againſt <hi>Barneſtable</hi> in <hi>Devonſhire</hi> but they have pro<g ref="char:EOLhyphen"/>vided themſelves well againſt them, by the meanes of Maſter <hi>Perd</hi> a Member of the Houſe
+<pb facs="tcp:130860:2"/>of Commons, and have moun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed 16. Peeces of Ordnance to defend the Towne.</p>
+            <p>From <hi>Mancheſter</hi> it was informed that the powder and Match ſent down thither by the Parliament, was intercepted by the way by Sir <hi>Edward Moſely</hi> in <hi>Staffordſhire,</hi> but they have got ſome ſupply of match and powder from out of <hi>Cheſhire,</hi> and have lately ſallyed out of the Town, and taken 12. Gentlemen (which were their chiefeſt enemies, and Array-men) priſoners, and that the Ea. of <hi>Derby</hi> being not able to make any further aſſault againſt them, is marched with his ragged regiment conſiſting of not above 400 men to the <hi>King,</hi> bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is ſaid that the <hi>King</hi> is not pleaſed with him, in that he brought no greater a company to his ayde.</p>
+            <p>From <hi>Newcastle</hi> it was for certaine informed, that the plague continueth there very hot, but the Earle is gone into <hi>Northumberland</hi> to raiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Forces for the <hi>King,</hi> he and divers other Gentlemen, and ſome of them convict Papiſts, have received Commiſſions from his Ma<g ref="char:EOLhyphen"/>ieſty to raiſe 8000 Papiſts in <hi>Durham</hi> and <hi>Northumberland</hi> and other parts there abouts; and they intend to compell the Proteſtant party to billet them, and have already put the ſame in execution in ſome places thereabouts.</p>
+            <p>The King ſent a Writ of eaſe to Sir <hi>Io. Brampſton</hi> Lord Chiefe Iuſtice of the Kings Bench, and the like to the Lord Chiefe Baron in the Exchequer; Whereupon the Parliament were neceſſitated to appoint Iudge <hi>Berkley</hi> though a priſoner in the Tower to ſit on the Eſſoyne day, for the continuance of Writs, otherwiſe the Subiect had loſt the benefit of all Actions commenced, that are not come to Iudgement: It is reported that the King intends to make Iudge <hi>Heath</hi> Lord Chiefe Iuſtice of the Kings Bench, and Serieant <hi>Henden</hi> Lord Chiefe Ba<g ref="char:EOLhyphen"/>ron, who are both with his Maieſty. The Copy of the Oath by which they are to be ſworn, his Maieſty hath ſent for.</p>
+            <p>The Lord Maior of <hi>London</hi> hath put Maſter <hi>Hall</hi> the ſword-bearer out of his Office, for his malignancy againſt the Parliament, and for ſaying that the Prentices of <hi>London</hi> might have Actions againſt the Mayor, for cutting off their long lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks.</p>
+            <div type="part">
+               <head>Tueſday the <hi>18.</hi> of October.</head>
+               <p>SIr <hi>Iohn Meldrums</hi> letter to the King, a reall thing, wherein with moſt excellent expreſſions he excuſeth himſelfe to his Maieſty, for his great averſneſſe and reluctancy againſt all the late proceedings which have been attempted in his Maieſties ſervice; ſetting forth the great zeale he alwayes had to the ſervice of King <hi>Iames</hi> of bleſſed memory; and to his now Maie<g ref="char:EOLhyphen"/>ſties ſervice at <hi>Rochell,</hi> and other occaſions, which may iuſtly vindicate him from any aſperſi<g ref="char:EOLhyphen"/>on that may be caſt upon him either of ingratitude or diſloyalty: But for this warre it hath been occaſioned by the unſettled and unconſtant appetites of ſome factions and turbulent ſpirits about his Maieſty, whoſe attempts are and have been to force a woefull divorce be<g ref="char:EOLhyphen"/>twixt his Maieſty and people, which of neceſſity can bring forth nothing but predigious iſſues, ſuch as will not onely ſhake the foundation of Monarchy, but alſo overflow the fertile and pleaſant fields of this Kingdom with ſtreames of innocent blood, which might bee more ſafely reſerved for more honourable imployments, then profuſedly ſpent in the ripping up of the bowels of one another of his Maieſties ſubiects by this inteſtine warre: Setting forth to his Maieſty the miſerable events that have followed upon other Kingdomes upon the like oc<g ref="char:EOLhyphen"/>caſion: by all which in concluſion he laboureth to perſwade with his Maieſty, that he would no longer be inexorable to the perſwaſions, counſells, and petitions of his good ſubiects, in<g ref="char:EOLhyphen"/>viting him to adhere to his great Councell the Parliament, who are onely able to make his Maieſty no leſſe happy and glorious then any of his Royall Progenitors; And that his Ma<g ref="char:EOLhyphen"/>ieſtie being ſenſible of the common calamities would leave his evill and wicked Counſell, and ioyne himſelfe to his Parliament, that ſo ſome proper occaſion may bee repreſented, whereby every true and loyall ſubiect may bee encouraged to offer up his ſacrifice of blood for the honour and ſafety of his Maieſty and his Dominions. <hi>Io. Meldram.</hi>
+               </p>
+               <p>There was another book printed, of the examination of Sir <hi>Ralph Hopton,</hi> Sir <hi>Io. Steell,</hi> and ſome others, at the Commons Houſe Barre, and Articles of Treaſon pretended to be ex<g ref="char:EOLhyphen"/>hibited
+<pb facs="tcp:130860:3"/>by the Commons againſt them; But all a meere lie, the ſaid parties being ſtill in re<g ref="char:EOLhyphen"/>bellion at <hi>Pendennis</hi> Caſtle in <hi>Cornwall.</hi>
+               </p>
+               <p>There was a book publiſhed by Order of Parliament, of Maſter <hi>Darells</hi> confeſſion before the Houſe of Commons concerning the report raiſed by him, of Maſter <hi>Pyms</hi> taking of a bribe of thirty pound; who confeſſed that the ſaid report was notoriouſly falſe, and that hee had no true ground for the raiſing of any ſuch Report, deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the favour and pardon of the Houſe for his folly and offence in reporting the ſame. Whereupon the Commons ordered, that he ſhould make acknowledgement of his offence at their barre, which he did accor<g ref="char:EOLhyphen"/>dingly upon his knees; And alſo ordered that he ſhould make the like Acknowledgment at the Kings Bench Barre, the Chancery Barre, Common-Pleas-Barre, and Exchequer-Barre, upon the firſt day of the next full Terme, and that he ſhould put in good baile to performe the ſame accordingly.</p>
+               <p>A relation of Newes from <hi>Ireland,</hi> by which it is credibly informed that the Adventurers Forces under command of the Lord <hi>Forbes</hi> on the 23. of <hi>September</hi> laſt took a Caſtle from the Rebels, called the Knights of the Valley's Caſtle, not farre from <hi>Limbrick,</hi> In which they found a 1000 buſhels of Wheat, 3000 weight of Butter, and great ſtore of Barley, Mault, and ſalted Beefe; As alſo that the Lord <hi>Forbes</hi> hath taken in the River of <hi>Limbrick</hi> a French Ship which came from S. <hi>Mallos,</hi> wherein were 120 barrells of powder, 500 Armes, and 35 Butts of Sack, which were intended to aſſiſt the Rebels.</p>
+               <p>
+                  <hi>Other certaine Newes for the Day.</hi>
+               </p>
+               <p>Both Houſes paſſed a Vote, that they will accept of the 51 Commiſſioners that are to come out of Scotland to Treat for the Peace and ſafety of this Kingdom; And that according to their defires, they ſhall bring ſuch a Convoy along with them as they ſhall think fitting; A Declaration of thanks being ordered to be returned to the Scots for their brotherly affecti<g ref="char:EOLhyphen"/>on, and to informe them that the Parliament have admitted the Clergy nominated by them into the Aſſembly, to Treat of uniformity of Religion, and that they have paſſed a Bill and ſent it to his Majeſty for the Aſſembly of Divines by the 5th of <hi>November</hi> next. In that De<g ref="char:EOLhyphen"/>claration for ſafe Conduct, the Duke of <hi>Lenox</hi> &amp; the Lord <hi>Roxborough</hi> are excepted, the Duke of <hi>Lenox</hi> being voted a Delinquent, &amp; the L. <hi>Roxborough</hi> being one that came along with the King in a warlike manner to the Houſe of Commons, upon the accuſing of their five Members.</p>
+               <p>It was for certaine informed that Sir <hi>Chriſtopher Wray</hi> and others of the Deputy Lievte<g ref="char:EOLhyphen"/>nants for <hi>Lincolaſhire,</hi> have raiſed ſome Troops of Horſe to ſend to Captain <hi>Hotham</hi> in <hi>Yorkſhire</hi> to aſsiſt him againſt the Earle of <hi>Cumberlands</hi> Cavalleers.</p>
+               <p>By Letters from the Army it was informed, that the Lord Generall having notice of the Kings intention to march from <hi>Shrewbury,</hi> hath divided his Army into three Brigades, one part whereof hee hath ſent under command of Sir <hi>William Balfore</hi> to <hi>Warwick,</hi> to ſecure the paſſage that way either to <hi>Oxford</hi> or <hi>Coventry,</hi> and another part to <hi>Kittermaſter</hi> and <hi>Beudly</hi> with the Lord <hi>Wharton</hi> and others; which Brigade marched in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght of Prince <hi>Robert</hi> for two miles together, but no encounter; The other Brigade is with Lord Generall at <hi>Worcester,</hi> with which he intends to march cloſe after his Majeſty upon his remove; Alſo informing that the moneyes which the Parliament ſent to the Lord Generall came ſafely down to his Excellen<g ref="char:EOLhyphen"/>cy, notwithſtanding Prince <hi>Roberts</hi> vigilancy to intercept the ſame.</p>
+               <p>The Earle of <hi>Warwick</hi> this day came from Sea to attend the ſervice of the Houſes, and hath left Captaine <hi>Batten</hi> Vice-Admirall in his roome: It is ſaid that the Houſes will give him a Commiſſion to raiſe Forces in ſix Eaſtern Counties.</p>
+               <p>Sir <hi>Dudly Carlton,</hi> one of the Kings ſervants, hath left his Majeſties Army, and this day came to <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Wenſday <hi>19</hi> of October.</head>
+               <p>THere was a relation of newes from <hi>York,</hi> by which it was informed, that the Malig<g ref="char:EOLhyphen"/>nant party have gathered a great head there, and plundered divers Houſes in that City, forcing the Inhabitants to contribute towards the deſignes of the Cavalliers; That they have
+<pb facs="tcp:130860:3"/>committed to priſon divers Aldermen that refuſe to adhere to them, That they threaten to be the death of ſuch Miniſters as will not preach as they would have them, That they have com<g ref="char:EOLhyphen"/>mitted S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Iohn Bourchier</hi> to <hi>York</hi> Gaole, That the Lady <hi>Melion</hi> being about <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſend her goods by water towards <hi>Hull,</hi> had all her goods, money, and plate, to the value of 1000 l. taken by the ſouldiers, as they were putting into a Barge; that the chiefe Cavalleers that beare ſway in the City of <hi>York,</hi> are Sir <hi>Francis Worthley,</hi> Sir <hi>Marmaduke Langdale,</hi> Sir <hi>I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>llay,</hi> Maſter <hi>Francis Nevill,</hi> and others, the Earl of <hi>Cumberland</hi> ſtands for a Gypher, they do what they pleaſe without his advice, That here is 1000 foot and three Troops of horſe a arched towards <hi>Cawood</hi> where Maſter <hi>Hotham</hi> is.</p>
+               <p>By another Book it was informed, that the Lord Generall hath ſent inſtructions to the Counties of <hi>Derby, Warwick, Northampton,</hi> and <hi>Coventry,</hi> to raiſe the power of the Coun<g ref="char:EOLhyphen"/>ties, and ſtand upon their Guards, to ſecure themſelves from the Cavaliers, who plunder every place where they come, without diſtinction of perſons and doe now endeavour to draw his Majeſty towards <hi>London,</hi> intending to plunder by the way.</p>
+               <p>There was a Book publiſhed of the Queens reſolution diſcovered by ſome Letters read in the houſe of Commons from Maſter <hi>Strickland;</hi> Alſo another book of the Examination of Sir <hi>Edw. Rodny,</hi> Sir <hi>Edward Berkly</hi> and ſome others taken in <hi>Somerſetſhire,</hi> but they were both meere inventions: and two or three other of the ſame nature.</p>
+               <p>
+                  <hi>Other certaine Newes for the Day.</hi>
+               </p>
+               <p>Both Houſes taking into conſideration the great danger that may happen to the whole Kingdome, if Sir <hi>Ralph Hopton</hi> and his Accomplices ſhould perſiſt in their Rebellious courſes in <hi>Cornwall,</hi> committing ſuch outrages as they daily doe, appointed the Earle of <hi>Pembrock</hi> to be Lord Generall for the Weſtern Counties, <hi>viz. Wiltſhire, Somerſetſhire, Hampſhire, Do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſet, Devon, Cornwall,</hi> and the Iſle of <hi>Wight;</hi> and have given him a Commiſſion with the like power the Earle of <hi>Eſſex</hi> hath, to raiſe Forces and to march with them againſt Sir <hi>Ralph Hop<g ref="char:EOLhyphen"/>ton,</hi> and all others in this Rebellion, and to fight with, kill, and ſlay all that oppoſe him.</p>
+               <p>At a Conference of both Houſes, It was declared upon good proofe, that his Majeſty hath granted Commiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion to the Earle of <hi>Newcaſtle</hi> for the raiſing of Papiſts: and divers noto<g ref="char:EOLhyphen"/>rious Papiſts in <hi>Northumberland,</hi> and Biſhoprick of <hi>Durham,</hi> and <hi>Lancaſhire,</hi> have the like Commiſsions, and that there is 6 or 8000 Papiſts to be preſently raiſed; That Sir <hi>Iohn Hin<g ref="char:EOLhyphen"/>derſon,</hi> and Colonell <hi>Cockeram</hi> are ſent into <hi>Denmark</hi> to raiſe 10000 <hi>Danes,</hi> that are to bee brought to <hi>Newcastle</hi> and joyne with the Papiſts Army that are now in raiſing. That there are divers Iriſh Papiſts lately landed at <hi>Cheſter</hi> and gone to his Maieſty; and that Doctor <hi>Cooke</hi> of <hi>Cheſter</hi> diſcourſing with them how they durſt have the impudence to ſee his Maieſty, They replyed, that the King knew them to be better ſubiects to him then he was, and no man ſhould be heard by the King that complained againſt them; and the ſaid Iriſh Rebels are now with the King, and in great favour; and that Prince <hi>Roberts</hi> Phyſitian is a notorious Rebell and indicted of high Treaſon in <hi>Ireland.</hi> Vpon conſideration of all which buſineſſes, the Commons moved the Lords, that the Parliament, City of <hi>London,</hi> and whole Kingdom might enter into ſtrict aſſociation, with life and fortunes one to defend another, againſt the Kings forces or any that ſhall oppoſe them, and that ſuch as refuſe their perſons, to be ſecured and their eſtates to finde horſe and foot as they were able: To which the Lords agreed, and ordered that a Declaration for an Aſſociation ſhould be drawn up and tendered to the City of <hi>London</hi> a Common Hall with all conveniency.</p>
+               <p>Information was formerly given to the Parliament againſt Alderman <hi>Wright,</hi> that hee had not aſsiſted the Parliament with money, or plate, proportionable to his eſtate; and thereupon an Order iſſued out for the diſarming of him, as one diſ-offected to the Parlia<g ref="char:EOLhyphen"/>ment; But upon further information it appeared that he hath lent 1500 l. to the affaires of <hi>Ireland,</hi> and to the propoſitions of the Parliament 200 l. with proffer of 300 l. more: Whereupon it was ordered by the Commons, that the former Vote ſhall be taken off, and hee
+<pb facs="tcp:130860:4"/>freed from any reſtraint or imputation of diſ-affection, and his proffer thankfully received.</p>
+               <p>The Lord <hi>Coventry</hi> ſince his comming from the King, as a teſtimony of his affection to the Parliament, hath ſent 1500 l. in plate to Guild-Hall upon the propoſitions.</p>
+               <p>This day the May or of <hi>Worc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſter</hi> and Alderman <hi>Green</hi> of the ſaid City, being apprehended by his Excellency for betraying the ſaid City into the hands of the Cavaleers, were brought up to <hi>London</hi> with a ſtrong Guard and committed to priſon, and with them came a Waggon load of plate, contai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing twenty two hundred weight, which was ſent to Guild-Hall.</p>
+            </div>
+            <div type="part">
+               <head>Thurſday the <hi>20.</hi>
+               </head>
+               <p>THere were this day 2. Bookes publiſhed in print, and both of them very lyes, and meere inventions: One of them was <hi>A Relation of the ſecuring of Windſor Caſtle for the Parlia<g ref="char:EOLhyphen"/>ment,</hi> by Dragoneers pretended to bee raiſed in <hi>Eſſex, Middleſex, Buckinghamſhire, Bark<g ref="char:EOLhyphen"/>ſhire, Surry, Hampſhire,</hi> and other Counties, though no ſuch matter. Another was of <hi>The Kings Reſolution to come up to London with his Army, and that the Earle of Eſſex had ſtopped his paſſage by breaking downe divers bridges, whereby they were now ſo invironed with Rivers that they could not paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> The ſame day it was informed by letters that the King, with Prince <hi>Robert</hi> and the Army, was within five miles of <hi>Coventry,</hi> and that the King lay at Sir <hi>Robert Fletchers</hi> houſe; the Earle of <hi>Eſſex</hi> alſo the day before advancing from <hi>Worceſter,</hi> having ſent all his horſe before, intending himſelf to be upon the <hi>Kings</hi> Army very ſuddenly.</p>
+               <p>
+                  <hi>Other certaine Newes for the Day.</hi>
+               </p>
+               <p>By letters from Yorkſhire it is informed, that the Lord <hi>Fairfax,</hi> underſtanding that the King hath granted Commiſſions for the raiſing of Papiſts, hath renounced the Articles of Neutrality, and is raiſing Forces to aſſiſt Captain <hi>Hotham:</hi> That Captain <hi>Hotham</hi> hath ſe<g ref="char:EOLhyphen"/>cured <hi>Cawood</hi> Caſtle, and <hi>Selby,</hi> in deſpight of the Cavaliers, and that Sir <hi>Chriſtopher Wray,</hi> Sir <hi>Hugh Chomley,</hi> and Mr <hi>Hatcher</hi> have raiſed three Troops of horſe in Lincolnſhire to aſſiſt Captain <hi>Hotham;</hi> and that Sir <hi>William Savile</hi> is labouring to make his peace with the Parliament, and renounceth the Cavaliers.</p>
+               <p>It was alſo credibly informed, that the Earle of <hi>Pembrook</hi> is proclaimed Traitour in <hi>Wales,</hi> and all his Rents and Revenues there ſequeſtred by order of his Maieſty.</p>
+               <p>Letters from the Lord Generall informed, that the King with his Army is removed from <hi>Shrewsbury,</hi> and hath left the trained Bands with the Marqueſſe of <hi>Hartford</hi> to guard the Towne, that the King is marched towards <hi>Coventry,</hi> and that the Lord Generall the day paſt advanced with his Army from <hi>Worceſter</hi> after his Maieſty, his Excellency only leaving be<g ref="char:EOLhyphen"/>hind him one Regiment for a garriſon at <hi>Worceſter,</hi> and the Earle of <hi>Stamford</hi> at <hi>Hereford:</hi> his whole Army conſiſteth of 18 Regiments of Foot, beſides the ſaid two Regiments, 61 Troops of horſe, and 46 peeces of Ordnance. It was alſo informed, that when the Waggons that car<g ref="char:EOLhyphen"/>ried the forty thouſand pound to his Excellency to pay the Army came to <hi>Oxford,</hi> news was brought that Prince <hi>Robert</hi> had vowed to have the money; whereupon they ſtayed at <hi>Abing<g ref="char:EOLhyphen"/>ton</hi> for two or three dayes, and the Countreys came in in ſuch abundance to aid them, that they were guarded to the Army with many thouſand men, which Prince <hi>Robert</hi> heating of, le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t purſuing of it, and ſwore a great Oath, <hi>That the money was too hot for him to meddle with.</hi>
+               </p>
+               <p>Iudge <hi>Berkley</hi> (according to the Order of Parliament) came this day as a Priſoner from the Tower, to the Court of Kings bench to adjourn the Terme, and ſate all the forenoon in that Court, and Iudge <hi>Foſter</hi> in the Common Pleas, expecting the Kings writs; but none came: Whereupon they ſate againe in the afternoon, and about five a clocke the writs came, whereby they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>djourned the Termeth Novemb. 18. according to the Proclamation. The Kings writs were dated at <hi>Bridge-north Octob.</hi> 14. 1642.</p>
+               <p>The Lord Mayor and Sheriffs of London (according to the Order of Parliament) have made diligent ſearch in the houſes of all ſuch diſaffected perſons as refuſed to contribute to the propoſitions, and have taken from them all ſuch Armes as they could meet withall, a further courſe being ſuddenly to be taken for the ſecuring of their perſons.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:130860:4"/>
+               <head>Friday the <hi>21.</hi>
+               </head>
+               <p>THere was a Declaration and Ordinance of Parliament publiſhed, giving power to all his Majeſties loving ſubiects in the kingdome of <hi>England,</hi> to be approved of by the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Admiralty eſtabliſhed by the <hi>Parliament,</hi> to furniſh with all manner of proviſi<g ref="char:EOLhyphen"/>ons, and ſend to ſea, what ſhips and pinnaces they ſhall thinke fit, and to take, ſurprize, and ſeize upon at ſea, all manner of ſhips, veſſels, goods, and merchandize belonging to the Re<g ref="char:EOLhyphen"/>bels in <hi>Ireland,</hi> or any other perſons that they ſhall finde or underſtand to have aided the ſaid Rebels with Armes, Ammunition, or Victuals, by ſea or land: and alſo to ſeize and ſurprize all manner of ſhips and other veſſels, having on board them Armes, Ammunition, or Victu<g ref="char:EOLhyphen"/>als, bound therewith to the kingdome of <hi>Ireland,</hi> or any of the dominions of the ſame, not having on board them a paſport or licence from the Commiſſioners of the Admiralty aforeſaid, or from the chiefe Governours of <hi>Ireland</hi> appointed by his Maieſty, with conſent of both Houſes of Parliament, and to invade the ſaid Rebels in any Ports, Harbours, Creeks, Havens, Iſlands, Caſtles, Forts, Townes, or any other places in the poſſeſſion of the Rebels, and to take, ſeize upon, ſurprize, vanquiſh, deſtroy, or kill them, and to ſack and pillage any ſuch place or places; and to take or ſurprize all manner of pirates and ſea-rovers, and their ſhips and goods whatſoever: And that all ſuch as ſhall ſet forth any ſhips or veſſels for the ſervice afore<g ref="char:EOLhyphen"/>ſaid, ſhall have and enioy as their owne proper goods, all ſhips, goods, monies, plate, armes, victuals, pillage and ſpoile, as they ſhall take from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebels in <hi>Ireland,</hi> or any other perſons aſſiſting them, without any accompt thereof to be made; only reſerving the tenths accuſtomed in ſuch caſes to be paid to the Admirall, and to be diſpoſed of by order of Parliament, &amp;c.</p>
+               <p>There was a Book publiſhed, of <hi>the Iudges Reſolution on the Kings Bench in Weſtminſter Hall, concerning the Kings proclamation for adjourning of Michaelmas Terme,</hi> but a very lye, the ſaid Iudges ſpeaking not one word concerning it, but adiourned the Terme according to the proclamation. There was another Book or two publiſhed, but not worth the reciting.</p>
+               <p>
+                  <hi>Other certain Newes for the day.</hi>
+               </p>
+               <p>An Order was made by the <hi>Parliament,</hi> for the ſpeedy ſending of ten Merchants ſhips, for a Winter guard for <hi>Ireland,</hi> and they are to take all prizes they can meet withall, according to the Declaration formerly ſpoke of to that purpoſe.</p>
+               <p>It was informed that the Counties of <hi>Worceſter, Hereford, Glo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceſter, Wilts,</hi> and <hi>Dorſet,</hi> are entred into an affociation to defend themſelues for the <hi>King</hi> and <hi>Parliament,</hi> againſt any force that ſhall come againſt them.</p>
+               <p>By letters ſtom <hi>Cheſter</hi> it was informed, that ſince the <hi>Kings</hi> remove from <hi>Shrewsbury</hi> the City is very quiet, and they have cleared the Town of the Cavaleers; that the Commiſſioners of Array are now much quieter then formerly; but while they had hopes of his Maieſties con<g ref="char:EOLhyphen"/>tinuing neere them they uſed great violence againſt the well affected party, forcing them to lend mony, and thoſe that refuſed they committed to priſon. Yet notwithſtanding his Maieſty ſent to borrow 2000. <hi>li.</hi> of that County, they have not got above 200. <hi>li.</hi> throughout the ſhire.</p>
+            </div>
+            <div type="part">
+               <head>Saturday the <hi>22</hi> of October.</head>
+               <p>THere was a declaration and proteſtation publiſhed from both houſes of Parliament to the Kingdome, tending to this effect, That they doe proteſt before God and the world that no private paſsion or reſpect, no defigne againſt his Maieſty, either againſt his perſon, or iuſt authority, hath engaged them to take up armes againſt the Authors of this warre; That they have uſed all poſsible meanes to aſſure his Maieſty of their loyalty and obedience to him, and reſolution to defend his perſon and eſtate with their lives and fortunes: That for the avoi<g ref="char:EOLhyphen"/>ding of blood by occaſion of this war they drew up as humble a petition as poſsible might be, and ſent it to the Earl of Eſſex to preſent to his Maieſty, for the delivery of which Peti<g ref="char:EOLhyphen"/>tion his Excel. ſent twice to his Maieſty, but his Maieſty refuſed to receive the ſame from his Excellency. By which &amp; other evidences the Parl. are fully convinced, that the Kings Coun<g ref="char:EOLhyphen"/>ſels
+<pb facs="tcp:130860:5"/>&amp; reſolutions are ſo engaged to the Popiſh party, that all hopes of peace are excluded, and that it is intended to give ſatisfaction to the Papiſts by the altering of Religion, &amp; to the Ca<g ref="char:EOLhyphen"/>valleers and other ſouldiers by expoſing the wealth of the Kingdom to be ſackt &amp; plundered by them. That for the better effecting hereof, great numbers of Papiſts have of late in ſhew con<g ref="char:EOLhyphen"/>formed themſelves to the Proteſtant Religion, by comming to Church, &amp; taking the Oaths of Allegeance &amp; Supremacy, which their own Prieſis have encouraged them to do. And that at firſt his Maieſty would not ſeem to entertain any Papiſts in his Army: But now Commiſsions have bin granted to raiſe an army of Papiſts; &amp; Preſts, &amp; Ieſuits have bin releaſed out of priſon. All which is contrary to his Majeſties ſolemn Oathes, Proteſtations, &amp; execrations, ſo often taken to maintain Religion and the Lawes of the Land. That Sir <hi>Io. Hinderſon,</hi> Collouell <hi>Cockram</hi> are ſent to <hi>Hamburgh</hi> and <hi>Denmark</hi> to raiſe Forces for the King, and that divers of the Rebels in <hi>Ireland</hi> named are about his Maieſty; And divers others accuſed of Treaſon by this Parliament, as the Lord <hi>Digby, O-Neale, Wilmot, Pollard, Aſhbornham,</hi> and others.</p>
+               <p>That divers Prieſts and Ieſuites in forraign parts make great collections of money to further his Maieſties deſignes againſt the Parliament, and great meanes are made to take up the differences betwixt ſome <hi>Princes</hi> of the Roman Religion, that ſo they might ioyne their Force for the extirpation of the Proteſtant Religion in this Kingdome. For all which rea<g ref="char:EOLhyphen"/>ſons both houſes doe declare, That they will enter into a ſolemn Oath and Covenant with God to defend this cauſe with their lives and fortunes againſt the Kings Army, and all of that party ſhall ioyn with them in this wicked deſign: And that the parliament will Aſſociate themſelves, and unite with the City of <hi>London</hi> and all other of his Maieſties Dominions to the end aforeſaid. And laſtly, the parliament doe declare that they doe expect our brethren of <hi>Scotland</hi> according to the Act of pacification, will alſo ioyn with them in the ſaid cauſe &amp;c.</p>
+               <p>There was alſo a letter publiſhed by Order of the Houſe ſent from M. <hi>Copley</hi> Muſter-Ma<g ref="char:EOLhyphen"/>ſter Generall to the Earle of <hi>Eſſex</hi> Army, who was ſent by his Excellency to the Earl of <hi>Dor<g ref="char:EOLhyphen"/>ſet</hi> the ſecond time to move his Maieſty to receive the petition of the Houſes, by which letter the former paſſages of his Maieſties refuſing to receive the petition is confirmed, wherein is alſo ſet forth the deſperate and wicked carriage of the Cavalleers about his Maieſty, exclaiming againſt the parliament, and all that ſeem well affected to them, and ſware heavie oathes that they have now taken a courſe with thoſe Lords about the King that would not comply with them, and have lockt up his Maieſties eares and tongue, that he will neither heare nor ſpeak to them, and that the Earle of <hi>Dorſet</hi> and ſome others were treacherous and cowardly, and did diſcover the Kings intentions, but now the King had learnt to keep his Councels from them; and gave out other vile and approbious ſpeeches, ſwearing that they would neither give nor take quarter.</p>
+               <p>By an expreſſe from the Army it was informed, that the King had left <hi>Coventry,</hi> and lay the laſt night at <hi>Southam,</hi> and intends to go this day to <hi>Banbury:</hi> That the Lord Generall it marching cloſe after his Maieſty, and is within ten miles of him, the Lord Generall once more deſiring the Parliament that they would take care for the ſecuring of the malignants in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in caſe his Maieſty ſhould come that way.</p>
+               <p>This afternoone there were ſix of the Lords and twelve of the Commons met the City of <hi>London</hi> at a Common-Councell in Guild-hall, and tendered them the oath of Aſſociation to be taken throughout the Kingdom: The Earle of <hi>Northumberland</hi> made a Speech to the City declaring the cauſe of their comming, and after him Mr <hi>Pym</hi> read the houſes Declaration con<g ref="char:EOLhyphen"/>cerning the Oath of Aſſociation and the Oath it ſelfe, and made a ſhort Speech concerning it. And after him the Earle of <hi>Holland</hi> made a moſt excellent and learned Speech with divers reaſons and demonſtrations exciting the City to the ſaid buſineſſe: the Citezens were much taken with his brave expreſſions, And the propoſition was moſt cheerefully embraced by the City.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:130860:5"/>
+               <head>Munday the <hi>24.</hi> of October.</head>
+               <p>THere was a Letter publiſhed which was written by one Maſter <hi>Tempeſt</hi> a Papiſt to his Bro<g ref="char:EOLhyphen"/>ther an Officer in the Kings Army, which Letter was intercepted and ſhewed to the Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt. The letter expreſſed divers ſcandalous relations and ſome truths, viz. Concerning the ſeige of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ancheſter,</hi> that it is a very weake Towne, and no conſiderable ſtrength in it, and that the Lord <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ange</hi> Earle of <hi>Darby</hi> beſeidged it with 8000. foote and 700. Horſe and Cannon enough, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he the poorelieſt off that ever was heard on: That concerning <hi>Yorkeſhire</hi> Captaine <hi>Hotham</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sir <hi>Edward Roades</hi> beare a great ſway there, diſpight of the Archbiſhop, Sir <hi>Devoyne. Andrew Young,</hi> and ſir <hi>Ralph Hansby,</hi> great malignants, and that <hi>Yorkeſhire</hi> in generall is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the King, except ſome heroicke ones (as he termes them) that will take no new impreſſions. That the Prieſts and Jeſuites in <hi>Lancaſter</hi> Goale are ſet at Liberty, and divers Catholique <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mmanders admitted, and all wel enough that way.</p>
+               <p>That one Generall <hi>Reoyne</hi> lately come out of <hi>Sweden,</hi> is gone to the King to joyne with <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nce <hi>Robert.</hi>
+               </p>
+               <p>Alſo another letter from a Malignant in <hi>Shrewsbury,</hi> who writes that the King went from <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce on the <hi>Wedneſday</hi> before from <hi>Bridge North,</hi> and ſome of his forces to <hi>Sturbridge.</hi> That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King is 16000 ſtrong. That the King hath commanded his Army that they plunder not at all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that he cauſed Judge <hi>Heath,</hi> who he ſaith is now Lord Cheife Juſtice, to ſit with a Commiſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of <hi>Oier</hi> and <hi>Terminer</hi> whereat ſix of the Kings Souldiers were caſt for Plundering and ſtea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g.</p>
+               <p>That the Kings Mint is now come to <hi>Shresbury</hi> and one Maſter <hi>Buſhell</hi> doth Coyne every day, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that boundance of Plate is brought thither from ſeverall Counties, eſpecially from Wales <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cornewell, and that alſo the Preſſe for Printing is come thither.</p>
+               <p>That Sir <hi>Richard Newport</hi> is made a Lord, and hath given the King 10000 pound, The King <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uld have knighted the Mayor of <hi>Shrewesbury,</hi> but he refuſed it.</p>
+               <p>That the Sunday before the King tooke a Proteſtation and the Sacrament upon it, to defend <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Proteſtant Religion eſtabliſhed by Queene <hi>Elizabeth</hi> and his Royall Father,</p>
+               <p>That Prince <hi>Robert</hi> on the Tueſday before had beene at <hi>Brumingham</hi> and demanded 2000. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Towne, but the Inhabitants were fled to <hi>Coventry,</hi> Vpon Thurſday he marched to <hi>Mereden</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miles from <hi>Coventry,</hi> and the King with him, intending to goe to <hi>Banbury,</hi> from thence to <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ford,</hi> and ſo <hi>London,</hi> or <hi>Windſor,</hi> &amp;c.</p>
+               <p>There was a ſubmiſſive and Petitionary Letter publiſhed ſent from the Lord <hi>Littleton</hi> Lord <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>per of the Great Seale; the effect of which Letter in ſhort was, that their Lordſhips would <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>igate his offence in leaving of them, and that his penitent ſubmiſſion may be his ſentence, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking away of the Seale (which he willingly offereth to his Majeſty, may be his puniſhment <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that their Lorſhips will ſpare any further cenſure of him, and recommend him to his Majeſties <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce and pardon for all that is paſt, &amp;c.</p>
+               <p>
+                  <hi>Other certaine newes for the day.</hi>
+               </p>
+               <p>Vpon conſideration of the great danger the Kings Children at Saint <hi>Iames</hi> Houſe Weſtminſter <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld be in, in caſe the Cavalliers ſhould come to <hi>London,</hi> the Parliament Ordered that for their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſecurity they ſhould be removed to the Lord <hi>Cottingtons</hi> houſe in <hi>Broadſtreet London,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Earle of <hi>Pembrooke</hi> ſhould be their Protector.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Order was made for the ſpeedy raiſing of 5. or 6000. Sea-men and others for the Guard of River of Thames, and to be drawne up for land ſervice upon any imminent occaſion, and to be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oyed under the command of the Earle of <hi>Warwick,</hi> who is appointed for Generall for the Eaſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>elve Companies of the Trayned Bands for <hi>London,</hi> were ſent to <hi>Windſor Caſtle</hi> to Guard the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, for that it was informed that the King intendeth to come thither with his Cavalliers.</p>
+               <p>The Like Order was taken that the ſpeedy raiſing of Gariſon Souldiers for the City of <hi>London</hi> Suburbs, and the ſetting up a Court of Guard and Fortifications and Outworkes in the fielde.</p>
+               <pb facs="tcp:130860:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:130860:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <p>
+                  <pb facs="tcp:130860:7"/>Maſter <hi>Griffith</hi> a Minſter and P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſon of Saint <hi>Mary Mandlins Old-Fiſhſteet London</hi> commited to priſon for preaching divers late Scandalous and Seditious Sermons, &amp;c.</p>
+               <p>It was informed by Letters from the Army that the Lord Generall came with his Army 6<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> miles from <hi>Warwick,</hi> and the King with his Army the ſame night lay within 4 miles of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> That the Kings Cavalliers had beene at <hi>Banbury,</hi> but the Townſmen denyed them entrance ſtood bravely upon their Guard.</p>
+               <p>That on Sunday morning an Alarum came to the Lord Generall that the Enemy was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> three miles, and that the King would there give them Battell, whereupon, they marched in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> field and drew into <hi>Battalio</hi> in the Vally called the vale of the Red Horſe, and the Kings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within two miles from them upon a high hill called <hi>Edge Hill,</hi> drawing into <hi>Battalio,</hi> that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forces by all relations were about 14000. &amp; all the forces that the Lord Generall had with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that time were not above 10000. The Kings forces at the firſt had the wind and the field, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tell bega<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne on Sunday about 12. of the clocke, and the Ord<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance firſt playad for 2 or 3 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there was no good relation of the fight that day.</p>
+            </div>
+            <div type="part">
+               <head>Tuſeday the <hi>25.</hi> of October.</head>
+               <p>THere was an Order of both Houſes publiſhed to the City of <hi>London</hi> &amp; Suburbs for the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſetting up of Courts of Guard, Poſts, Barres, and Chaines in all ſuch places as ſhall be th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> neceſſary and convenient for the defence and ſafe Guarding of the City and Suburbs, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> charge thereof to be borne by the Inhabytants of the ſeverall Pariſhes reſpectively, and if any <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſon ſhall refuſe to contribute their proportions as they ſhall be rated, that the names of ſuch <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſons ſhall be certified to both houſes of Parliament, that ſuch further order may be taken the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as to them ſhall be thought convenient, and that a competent number of the Trained Bands <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Voluntieres belonging to every Pariſh ſhall day and night attend with their Armes in or ne<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> their Court of Guard, and ſhall ſeize and arreſt all ſuſpitious perſons, Ammunition or Arm<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſing through their Pariſhes, and acquaint the Parliament therewith, who will take order co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the ſame.</p>
+               <p>There was alſo another Order from the Houſes, That all perſons within the City of <hi>Lond<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> VVeſtminſter,</hi> Suburbs and Bourough of <hi>Southwarke</hi> be required to ſhut up their ſhops, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beare their Trades and other ordinarie imployments, that ſo they may with the greater <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and freedome and freedome for the preſent to the defence of the ſaid places, and put in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and performance of any ſuch commands for the defence and ſafety thereof, as they ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time to time receive from both Houſes of Parliament, the Committee for the defence of the k<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dome, the Lord Generall, or the Lord Mayor and Committee for the Militia.</p>
+               <p>Another Order was alſo publiſhed by the Houſes to exempt ſuch perſons in the City of <hi>L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>don</hi> and Suburbes from the ſtrict obſerving of the duties of the Faſt during this preſent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as ſhall upon that be imployed upon the Trained Bands or otherwiſe for the defence of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Faſt, but onely to ſuch perſons as ſhall be ſo imployed as aforeſaid.</p>
+               <p>There were two or three other Bookes publiſhed, but meere lyes not worth the name <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Other certaine newes for the Day.</hi>
+               </p>
+               <p>Vpon information to the Houſes of the great diſorders that have of late been at Paules Ch<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <hi>London</hi> in Service and Sermon time on Sundayes, by the malignants of the Citie, there was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Order drawne up from the Houſes that the Lord Major ſhould take care that Paules ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> henceforth during theſe diſtractions be ſhut up to prevent the like diſorders, and that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould be neither Service nor Sermon uſed there on Sundayes at all.</p>
+               <p>There were three officers of the Lord Generalls Army namely one Captaine <hi>VVillſon,</hi> L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tennant <hi>VVhitney</hi> and Leiuetennant <hi>Shankes</hi> that came this day poſt to London, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brought to the Parliament and examined, it appeared that they had run from their Com<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <pb facs="tcp:130860:7"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he begining of the Skirmiſh, and had poſſeſſed the Country as they came along with falſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nors telling them that there were 20000. Ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed on both ſides, and other falſe reports <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere upon they were ſent to the Gatehouſe by order of Parliament.</p>
+               <p>Vpon information that the Country Trayned Bands about <hi>Winſor</hi> came in voluntariely to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ard the Towne and Caſtle It was ordered that the 12. Citie Companies ſhould be ſent for <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k againe and imployed for the ſafety of the Citty.</p>
+            </div>
+            <div type="part">
+               <head>Wedneſday the <hi>26.</hi> of October.</head>
+               <p>The Houſes of Parliament kept the Faſt at Saint <hi>Margarets Weſtminſter</hi> Docter <hi>Vſher</hi> Biſhop <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Armagh</hi> preached in the forenoone and Maſter <hi>Caſe</hi> in the afternoone.</p>
+               <p>A little before the end of the evening Sermon the Lord <hi>VVharton</hi> and Maſter <hi>Stroud</hi> came to <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſtminſter</hi> from the Army, and they writt a note and ſent it to the Miniſter to read o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ly in the Church at the end of the Sermon, which note in ſhort, diſcovered the ſucceſſe of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ttle on Sunday laſt, the effect whereof was that the Earle of <hi>Lindſay</hi> Lord Generall of the Feild <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Majeſty is hurt and taken and alſo the Lord <hi>VVilloughby</hi> his ſone Sir <hi>Thomas Lunſford <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Edward Stradling</hi> and Colonell <hi>Vavaſor,</hi> and that they are all now priſoners in Warwick <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſtle.</p>
+               <p>That they have alſo taken ſix Colonis his Majeſties Standerd five Waggons laden with Ammu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ion and plate, a Coach, and eight pieces of Ordnance, the King and Prince being all the time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fight at Sir <hi>Edward Copes</hi> houſe at <hi>Hanwell,</hi> that the Kings loſſe was 3000. men, and but <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o. of the Parliaments.</p>
+               <p>That the reſt of the Kings Army were routed, and the Earle of <hi>Eſſex</hi> remaines Maſter of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ild.</p>
+               <p>There was alſo a further relation of the Battle but not ſo perfect as is here afterwards related.</p>
+            </div>
+            <div type="part">
+               <head>Thurſday the <hi>27.</hi> of October.</head>
+               <p>There was a Declaration of both Houſes of Parliament publiſhed to this effect, whereas di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rs Rebells Traytors and other ill affected people in purſuit of a wicked deſigne to alter Religion <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d ſubvert the lawes, are marching againſt the Parliament and Citie of <hi>London</hi> to diſtroy the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e and have plundered ſpoiled and diſtroyed divers of his Majeſties good ſubjects in their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ffage, to the great danger of the Parliament Citie, and whole Kingdome; for the prevention <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hereof, both Houſes have Ordered that the Committie for Militia of the Citie into <hi>London</hi> be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>horiſed to take a ſpeedy courſe to put the Citty into a poſture of defence, and to fortifie all p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ges within liberties as without &amp; to raiſe the Trained Bands &amp; other forces of the Citty both Horſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d foote, and to lead and conduct the ſaid forces aſwell without the liberties as within, and to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e battell and fight with all that ſhall aproach with any force againſt them, or raiſe any inſur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ction within the ſame, and them to invade reſiſt repreſſe, ſubdue, kill and ſlay, and by all o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er meanes to deſtroy; And to do all things elſe needfull for the preſervation of the Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent and Citty either by land or water, obſerving ſuch further directions as they ſhall re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eive from the Parliament the Committee for the ſafety of the Kingdom, or the Earle of <hi>War<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ck</hi> their Lord Generall; And for ſo doing they ſhall bee protected and defended by the au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ority of Parliament.</p>
+               <p>There was alſo an Ordnance of Parliament publiſhed to this effect. That whereas divers per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons are or ſhall bee imployed in the preſent Warr, who have little or nothing to maintaine <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>emſelves their wives and children, but their owne labours. Both Houſes have Ordered and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eclared that they will provide competent maintenance and allowance for all ſuch perſons as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all be maimed or hurt, and in caſe any ſuch perſons bee ſlayne that they will make proviſion <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the livelyhood of their wives and children. And in caſe any perſons of eſtate ſhall bee ſlayne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> die in this ſervice they will take the eſtate, wives and children of ſuch perſons into their pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ections, And in caſe any of their eſtates ſhall bee unſetled at the time of their deaths, they will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alwayes aſſiſtant to the freinds of the party dead, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etling of their eſtates for the moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vantage of their wives and children &amp;c.</p>
+               <p>
+                  <pb facs="tcp:130860:8"/>
+                  <hi>Other certaine newes for the day.</hi>
+               </p>
+               <p>The Earle of <hi>Warwick</hi> is made Lord Generall for ſix Eaſterne Counties, and hath a h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Commiſſion for the raiſing of forces, and to kill and ſlay all that come againſt him. Eſſex <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to ſhew their zeale to the Parliament and love to the Earle of <hi>Warwick</hi> are raiſing a great ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Voluntieres, part whereof are already come to London to ſerve the Parliament.</p>
+               <p>There was a Letter intercepted and brought to the Parliament; writ from Secretary <hi>Nichol<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> to the Earle of <hi>Cumberland,</hi> the ſubſtance of the ſaid Letter is inſerted in Satterdayes newes.</p>
+               <p>The Lord <hi>Fairefaxe</hi> and Captaine <hi>Hotham</hi> have done excellent ſervice in Yorke-ſhire, and driven the Earle of <hi>Cumberlands</hi> Cavaliers and all the Malignants into Yorke City, they hav<g ref="char:EOLhyphen"/>ing no other place left them to take ſanctuary in, but it is hoped they will bee ſoone forced fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thence alſo.</p>
+               <p>It was informed by an Expreſſe from the Army, that the Lord Generall with his Army is ſafe<g ref="char:EOLhyphen"/>ly come to Warwick, and that the Earle of <hi>Lindeſey</hi> ſince their comming thither, is dead, the reſt of the priſoners remaine in Warwicke Caſtle, the King as is conceived is about Oxford, and intends as it is reported to m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rch to London, but the Lord Generall will very ſuddainly advance from Warwick after his Majeſtie.</p>
+               <p>There was an Order drawne up by the Parliament, that the Ordnance and other Ammuniti<g ref="char:EOLhyphen"/>on that is at Chattam ſhould be fetched from thence and laide up ſafe in London for more ſecuri<g ref="char:EOLhyphen"/>ty, to prevent treachery and that the Kings ſhipps that are lately come from the fleet into har<g ref="char:EOLhyphen"/>bour ſhould bee preſently unrigged and their Ordnance to bee alſo laid up in <hi>London.</hi>
+               </p>
+               <p>The Earle of <hi>Pembrooke</hi> Earle of <hi>Holland</hi> Lord <hi>Say</hi> and <hi>Leale</hi> Lord <hi>Wharton</hi> and Maſter <hi>Strode</hi> according to an Order of Parliament met the City of London, at a Common Councell at Guild hall this night to acquaint with the paſſages of the late fight &amp; ſome other matters, whoſe ſeverall ſpeeches are here afterwards f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly related. The Earle of <hi>Weſtmerland</hi> being taken by the Trained bands of Northhampton was this night brought to London with other delinquents and committed priſoner to the Tower<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div type="part">
+               <head>Friday the <hi>28.</hi> day.</head>
+               <p>THere was a Letter publiſhed by order of the Houſe in diſcovery of the battell at Kynton which was ſigned by M. <hi>Denzill Hollis</hi> Sir <hi>Phil. Stapleton,</hi> Sir <hi>Thomas Ballard,</hi> Sir <hi>Io. M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>drum</hi> and Colonell <hi>Charles Pym,</hi> in which letter the former paſſages were confirmed I need not agaeine write but obſerve ſome other paſſages which that letter ſpeakes of <hi>viz.</hi> That part of the Kings left came up towards the Lord Generalls right, and charged them: and ſir <hi>Phillip Staple<g ref="char:EOLhyphen"/>tons</hi> and Sir <hi>William Belfores</hi> horſes, with my Lord <hi>Roberts</hi> and ſir <hi>William Conſtables</hi> Regi<g ref="char:EOLhyphen"/>ments of foot, bravely anſwered them, and charged them ſo home thrice together, that they for<g ref="char:EOLhyphen"/>ced all the Muskettiers of two of the beſt Regiments, to runne in and ſhoud themſelves within their Pikes, not daring to ſhot a ſhoot and ſo ſtood, but then the Lord Ceneralls Regiment and the Lord <hi>Brookes</hi> came up and charged altogether, and forced that ſtand of Pikes, and wholly broke thoſe two Regiments, and ſlew and tooke almoſt every man of them, and then the who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e body of the Kings foot ran a way, and the Army was routed, the priſoners before ſpoke of was then taken, Sir <hi>Edmund Verney</hi> who carryed the Kings Standard was ſlaine by a Gentleman of Lord Generalls Troope, The Lord Generall himſelfe tooke the Standard and gave it to his Se<g ref="char:EOLhyphen"/>cretary M. <hi>Chambers,</hi> but he ſuffered it to be taken away by ſome of the Troopers, whereby <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was at firſt miſſing but ſince found, The Kings forces were forced out of the field into their owne quarters, the Lord Generalls forces continued in the field all night, and the next morning drew into battalia, expecting the enemy would make a freſh onſet, but they were gone over the hill-quite away and never appeared, the Lord Generall with the Priſoners went to Warwick o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Munday, but the Army ſtaved in the fields to bury the dead; Sir <hi>William Balfore</hi> did excellent ſervice in the fight and broke a Regiment of foot with greene colours tooke their Cannon, and purſued them halfe a mile upon execution, Alſo ſir <hi>Philip Stapleton,</hi> who when five troopes of
+<pb facs="tcp:130860:8"/>ememies horſe returned from purſuit of the left wing, charged them with his ſingle troope, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them to flight, there was of note none loſt of the Lord Generalls ſide, but Colonell <hi>Eſſex</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the Lord <hi>Saint Iohn</hi> dangerouſly wounded, There was a George found in the field by a com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n ſouldier, and bought by Captaine <hi>Skinner</hi> for twenty ſhillings, which was ſent to the Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment to view. There was very many men of great quality ſlaine on the other ſide, the Kings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t was moſt of them run away, and the reſt of the force very weake, and ſhould have beene <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſued by the Lord Generalls forces, but they were neceſſitated to refreſh their men for two or <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ee dayes: and then God willing they intend to addreſſe themſelves to finiſh the worke.</p>
+               <p>The Lord Generall did gallantly adventure himſelfe that day in the front againſt the enemy, poſing himſelfe to great danger.</p>
+               <p>
+                  <hi>Other Certaine newes for the day.</hi>
+               </p>
+               <p>Severall orders were drawne up to be ſent into all the Maritine Counties in this Kingdome, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t they ſhould place diligent watch over their Shipping, and apprehend all perſons that cannot <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>duce their warrants from the Houſes or Tickets from the Farmours of the Cuſtome-houſe.</p>
+               <p>A Committee of the Commons were appointed to ſit every afternoone to receive all diſpatches <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t come from the members of the Houſe in the Countrey and to examine any delinquents and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mit to cuſtody if there be cauſe, and to ſend ſuch inſtructions and directions into the Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y as at any time they ſhall ſee needfull.</p>
+               <p>And an other Committee were appointed to take into conſideration what moneyes horſe and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te are raiſed in ſeverall Counties, and to take order for the advancing thereof, and conſider of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Kings returne.</p>
+            </div>
+            <div type="part">
+               <head>Saturday the <hi>29.</hi>
+               </head>
+               <p>THere was a booke publiſhed of the ſeverall ſpeeches which were ſpoke by the Lords to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> City of London, at a common Councell in Guild Hall, upon Thurſday night the 27, of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctober.</p>
+               <p>The Firſt that ſpoke was the Lord <hi>Wharton,</hi> who made a full diſcovery to the City of the fight <hi>Kinton,</hi> the ſubſtance in effect was the ſame that is formerly related, only ſome paſſages were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rted which I ſhall nominate. As 1. of the occaſion why ſo many of the Lord Generals for<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were abſent at the time of the fight, which was for that a Regiment of foot, and a troope or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o of horſe was left at Hereford under the command of the Earle of <hi>Stamford,</hi> to prevent the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>elſh for falling in upon Glouceſter ſhire, and the river of Severne and ſo into the Weſt, alſo a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>giment of the Lord <hi>Saint Iohns</hi> and Sir <hi>Iohn Merricks</hi> at Worceſter, which place is ſeated <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on the river of Severne, and intercepteth all force that commeth from Shrewsbury into the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt, there was another regiment of the Lord <hi>Rochfords</hi> left at Coventry, alſo Colonell <hi>Hamp<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and Collonell <hi>Granthams</hi> Regiment and ten or twelve troopes of Horſe were a days march <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inde, by reaſon of the Lord Generals ſuddaine march, who brought ſome powder; ammunition <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d artillery after the army, ſo that at the time of the fight there was with the Lord Generall but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ven Regiments of foot, and about forty Troopes of horſe.</p>
+               <p>That the Lord Generall in his owne perſon came up to the charge at ſeverall times, once with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owne troope of horſe, and with his owne Regiment of foot, which were raiſed in Eſſex.</p>
+               <p>That they tooke the priſoners afore named. <hi>viz.</hi> the Earle of <hi>Lindeſey,</hi> Lord <hi>Willoughby</hi> his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne, Colonell <hi>Lunsford</hi> and his brother ſlaine, Sir <hi>Ed. Stradling</hi> priſoner, and divers others of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lity the Lord <hi>Awberney</hi> Colonell <hi>Vavaſor,</hi> and ſir <hi>Edward Munroy</hi> a Scotch man of great <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>litie. That by all the information that can be gathered: there were three thouſand of the Kings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne, and but thace hundred of the Parliaments. That by all that could be gathered there were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t twenty of our men killed with the Kings Cannon. That Colonell <hi>Hampden</hi> Colonell <hi>Gran<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi> and thoſe other ten Troopes formerly ſpoke of, came not to the Lord Generalls army, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> about one a clocke at night. That the Lord Generall kept the field all night and next day <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, but the Kings forces never appeared but ſome ſcattering men of three or foure troopes
+<pb facs="tcp:130860:9"/>of none that came to bury their men, and however it was fully reported there was no ſign<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Munday or Tueſday, <hi>&amp;c.</hi>
+               </p>
+               <p>After the Lord <hi>VVhartons,</hi> M. <hi>Strode</hi> made a ſpeech to the City, confirming the former, re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> made by the Lord <hi>VVharton,</hi> further adding, that the two regiments raiſed in London for the i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Bookes,</hi> and Maſter <hi>Hollis,</hi> and the one regiment raiſed in Eſſex for the Lord Generall, w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> chiefe men that wone the day, that by theſe men that were ignominiouſly reproached by the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Roundheads did God ſhew himſelfe to bee a glorious God. I will adde one thing wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> worth the obſervation, that the ſame day that this fight was, which was the 23. of October, 1<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the ſame day twelve moneth, <hi>viz.</hi> 23. October 1641. did the Rebellion break forth in Ire<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>After Maſter <hi>Strode,</hi> the Earle of Pembrooke made a ſpeech, but the chiefe occaſion of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpeech was concerning a letter which was intercepted writ from Secretary <hi>Nicholas</hi> to the E<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of Cumberland in the North, dated the twenty foureth of October, which letter was read ten<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to this effect.</p>
+               <p>The Scretary writes to his Lordſhip that the King takes ſpeciall notice of his vigilancy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> care of the buſineſſe in Yorkſhire, and the care he hath of the Lady Dutches of <hi>Buckingham</hi> that raiſed ſome 10000 horſe and foote, and have diſarmed all ſuch perſons in Cornewell, w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> they eſteeme to be diſaffected to the King, and are marching into Devonſhire to doe the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there, and that they intend to meete the King at <hi>London;</hi> That there is alſo in Wales about <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or ſeven thouſand men raiſed for the King, which are to be under Marqueſſe Hartford, and be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dy to come to his Majeſty: But the Secretary writeth that hee hoped there will be no need their helpe, for that he ſaith (however falſely) the King hath lately given the Earle of <hi>Eſſex</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a blow, that they will make no haſt againe to adventure themſelves in that cauſe; And that morrow being (the 25 of <hi>October</hi>) the King marcheth towards <hi>London</hi> by <hi>Oxford.</hi>
+               </p>
+               <p>After the reading of this Letter the Earle of <hi>Holland</hi> made and excellent ſpeech, chiefely <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cerning the Letter, ſhewing them what is threatned by it, viz. A great Army of the King come againſt the City, and commanded by ſuch, that intend no leſſe then the utter deſtroying the City, their perſons, and eſtates, and this not all, but that if they can deſtroy the City, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whole Kingdome muſt ſubmitt and yeeld to them, wherefore hee deſires them to conſider <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God hath kept the firſt blow from them &amp; delivered them as from an iminent danger by the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> power of his hand and let that be an encouragement to them to purſue all things that are for glory, and the defence of Religion and cauſe: Further adding, that he only recommended <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unto them, that it might haſten them forwards to the worke, well knowing, and reſting conſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> that they are not wanting of piety, courage, and reſolution to defend themſelves, the Parlia<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and Kingdome, &amp;c.</p>
+               <p>After this, the Lord Say and Seale made a ſpeech further to ſecond that buſineſſe, wiſhing t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that they would not bee wanting to themſelves, and then there was no cauſe feare that d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> which is threatned by the Letter, nor any thing that can be done by the Kings broken Army thoſe things that are falſly buzzed abroad by malignant party into the City; there is no ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> danger, but in ſecurity, in ſitting ſtill: further adding, that it was not a time for men to think being in their ſhoppes and getting a little money, but let every man ſhurt up his ſhoppe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Musquet, and come forth freely to ſerve his God, Religion, Countrey and Parliament; had divers other excellent expreſſions, but they would be too tedious to relate here.</p>
+               <p>After this the Lord <hi>Wharton</hi> made a ſecond ſpeech to informe them of ſome paſſagas that had before omitted in his Relation of the fight, which was that Prince <hi>Robert</hi> with his Tro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whilſt the Armyes were fighting fell to pillaging of the baggage and moſt barbarouſly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Countreymen that came in with their Teemes and women and children that came with the which buſineſſe the Lord <hi>Wharton</hi> urged to the Citizens as a motive to raiſe up their hearts of worke which was before preſſed to them, for that the cheife ayme of the Cavallſiers is p<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and baggage, and plundering, and the way by which they would come by it is murthering <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:130860:9"/>deſtroying, wiſhing them to be of good courage, for if the Enemy doe come the Lord Generall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll not faile ſoone to be on the backe of them, by which meanes they will be enforced to lye be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixt two Armies, which by Gods bleſſing will bring things to a very ſhort Concluſion.</p>
+               <p>After this the Earle of Holland made a ſecond ſpeech further to incite the Citie to make <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gilant and carefull preparations for their owne ſecuritie, and that they reſolve and act both <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gether, telling them that it is conceived the Army would be at Oxford that night, which place <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing within ſuch a diſtance, as within 3. daies they may march to <hi>London,</hi> it being therefore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore than or little neceſſary to provide againſt this, as a danger that may be ſuddainly upon us.</p>
+               <p>After the Earle of <hi>Holland,</hi> to conclude all, the Earle of <hi>Pembrooke</hi> made a ſecond ſpeech deſire<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g the Citty as a thing which would much conduce to the ſafety of the Citty, to take care of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alignant party which is amongſt them, and now while they have time to ſecure them<g ref="char:punc">▪</g> for if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey be let alone till a time of diſtraction, they will then appeare much more boulder then now <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey are &amp;c. <hi>Finis.</hi> A Copy of a Proclamation was alſo publiſhed which was agreed upon by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Lord Iuſtices and Councell of Ireland, and publiſhed 19. <hi>Auguſt</hi> 1642. The effect whereof <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as to annull and make void all protections which have beene unduely granted to the Rebels, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> certaine Commiſſioners in divers Counties in Viſter, and that they ſhall bee proceeded againſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ppreſt and ſubdued as traitors and rebels to the King.</p>
+               <p>There was an other booke publiſhed, called the ſecond part of <hi>Vox populi,</hi> Being the peoples <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>port unto the King, upon the ſeverall appeales declared in his Majeſties name, an excellent <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ract, but too large to be here inſerted.</p>
+               <p>
+                  <hi>Other certaine newes for the day.</hi>
+               </p>
+               <p>BY Letters from Holland it was informed, that the Queene intends to ſtay there all this win<g ref="char:EOLhyphen"/>ter, and that Colonell <hi>Goring</hi> is come to the Queene. That the States of Holland doe de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re to hold a faire correſpondency with the Parliament, and that upon a late Aſſembly there, The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tates in generall have concluded for the more better preſervation of the union and peace between <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland and them, to ſtand as neuters, and that no aid ſhall be ſent from thence to aſſiſt neither <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rtie. By order of a Parliament, a member of the Houſe of Commons is to bee ſent into Flan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en with a Declaration againſt their ſending of aid to the Rebels in Ireland, as being a breach of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir treaty of peace with this kingdome. The like thing is in agitation for the ſending of a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ember of Parliament into France for the ſame buſineſſe, It was informed that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Lord <hi>Herbert</hi> at his houſe neare Lambeth, hath about 400. Guns of a bigger bore than Mus<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets and ſome other Armes, whereupon there was an order granted from the Parliament for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arching of the ſaid Lords houſe, and to ſeize upon all armes ſhall be found there.</p>
+               <p>The Lord Major this day came to Weſtminſter and had his Oath adminiſtred to him in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uall way in the Exchequer Chamber but in a private manner.</p>
+               <p>That evening the Trained Bands of London according to an Order of Parliament apprehen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed divers Malignants in ſeverall wards in London, ſome of them being Aldermen and other Citizens of good worth and divers of the Malignant Clergy and three parſons for the preſent are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecured in London houſe by Paules and Croſeby houſe in Biſhopps gate ſtreet.</p>
+               <p>On Munday and Tuſeday there was noe booke or other relations publiſhed worth the nomi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ating, from the Army it was informed that the Lord Generall is advanced from <hi>Warwick</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Munday came to <hi>Northampton</hi> and on Tuſeday to <hi>Aliſbury,</hi> the Kings forces having pillaged <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſpoyled Banbury, have left the Towne and are now at <hi>Abington</hi> where they have made <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he like worke and at other Townes thereabouts, the King as it is roported went from <hi>Oxford</hi> to <hi>Abington</hi> on Munday or Tuſeday laſt, but which wayes he intends to march is no wayes certain<g ref="char:punc">▪</g> But you ſhall have ſome further relations for the two laſt dayes in the next Collection.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
